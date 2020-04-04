@@ -11,6 +11,7 @@
 <br>
 
 <img src="https://i.imgur.com/cmP2cCV.jpg">
+<img src="https://i.imgur.com/wr2kvaJ.jpg">
 <p>
 
 <font color="696969" size="5">樂團介紹</font>
