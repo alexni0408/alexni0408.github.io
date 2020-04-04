@@ -10,9 +10,13 @@ SION – Bass<br>
 
 <img src="https://i.imgur.com/cmP2cCV.jpg">
 
-### Markdown
+### 樂團介紹
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Post Rock為「恆定」基底，試著加入各種「改變」元素，多一點強烈節奏，多一點吉他聲線，多一點複雜的鼓點編寫，將各種嘗試放到音樂裡試驗催化，組合出超越後搖的基本想像，就像是灰色的天空飄散著淡淡的彩色香氣，看似平衡卻似墜落，既迷幻又真實，內斂卻開放。
+唯一不變的就是變；
+世間萬物每一刻都在變動，沒有一樣是靜止的；
+我們不可能保持固定，只能維持動態的平衡。
+平衡所散發出的能量，將推往無限。
 
 ```markdown
 Syntax highlighted code block
