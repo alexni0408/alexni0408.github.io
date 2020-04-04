@@ -1,8 +1,12 @@
-## Pay Money to My Pain
+## 康士坦的變化球
 
-You can use the [editor on GitHub](https://github.com/alexni0408/alexni0408.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+CIG – Guitar
+ARNY – Guitar
+SION – Bass
+小米 - Drum
+啟泰 - VJ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://i.imgur.com/cmP2cCV.jpg">
 
 ### Markdown
 
