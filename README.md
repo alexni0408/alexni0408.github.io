@@ -3,11 +3,11 @@
 <font color="white" size="5">康士坦的變化球</font>
 <p>
 
-CIG – Guitar<br>
-ARNY – Guitar<br>
-SION – Bass<br>
-小米 - Drum<br>
-啟泰 - VJ<br>
+<font color="white">CIG – Guitar</font><br>
+<font color="white">ARNY – Guitar</font><br>
+<font color="white">SION – Bass</font><br>
+<font color="white">小米 - Drum</font><br>
+<font color="white">啟泰 - VJ</font><br>
 <br>
 
 <img src="https://i.imgur.com/cmP2cCV.jpg">
@@ -22,5 +22,5 @@ Post Rock為「恆定」基底，試著加入各種「改變」元素，多一�
 平衡所散發出的能量，將推往無限。<br>
 <p>
 
-<font size="5">歌曲推薦</font>
+<font color="white" size="5">歌曲推薦</font>
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/NhJCYJs0XIA" width="560"></iframe>
