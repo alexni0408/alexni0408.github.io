@@ -24,4 +24,4 @@
 
 <font color="white" size="5">歌曲推薦</font>
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/NhJCYJs0XIA" width="560"></iframe><br>
-<iframe width="1404" height="509" src="https://www.youtube.com/embed/UKmUMx2-ToQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/UKmUMx2-ToQ" width="560"></iframe>
