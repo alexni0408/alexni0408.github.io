@@ -1,6 +1,7 @@
 <body background="https://i.imgur.com/Dp2ZvXr.jpg">
 
-<font color="white" size="5">康士坦的變化球</font><p>
+<b><font color="white" size="5">康士坦的變化球</font></b>
+<p>
 
 <font color="white">CIG – Guitar</font><br>
 <font color="white">ARNY – Guitar</font><br>
@@ -13,7 +14,7 @@
 <img src="https://i.imgur.com/wr2kvaJ.jpg">
 <p>
 
-<font color="696969" size="5">樂團介紹</font>
+<b><font color="696969" size="5">樂團介紹</font></b>
 <br>
 <font color="696969">Post Rock為「恆定」基底，試著加入各種「改變」元素，多一點強烈節奏，多一點吉他聲線，多一點複雜的鼓點編寫，將各種嘗試放到音樂裡試驗催化，組合出超越後搖的基本想像，就像是灰色的天空飄散著淡淡的彩色香氣，看似平衡卻似墜落，既迷幻又真實，內斂卻開放。</font><br>
 <font color="696969">唯一不變的就是變；</font><br>
@@ -22,6 +23,6 @@
 <font color="696969">平衡所散發出的能量，將推往無限。</font><br>
 <p>
 
-<font color="white" size="5">歌曲推薦</font>
+<b><font color="white" size="5">歌曲推薦</font></b>
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/NhJCYJs0XIA" width="560"></iframe><br>
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/UKmUMx2-ToQ" width="560"></iframe>
