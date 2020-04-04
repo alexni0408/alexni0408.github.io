@@ -1,7 +1,6 @@
 <body background="https://i.imgur.com/Dp2ZvXr.jpg">
 
-<b><font color="white" size="5">康士坦的變化球</font></b>
-<p>
+<b><font color="white" size="5">康士坦的變化球 Constant & Change</font></b><p>
 
 <font color="white">CIG – Guitar</font><br>
 <font color="white">ARNY – Guitar</font><br>
@@ -10,7 +9,7 @@
 <font color="white">啟泰 - VJ</font><br>
 <br>
 
-<b><font color="white" size="5">樂團介紹</font></b>
+<b><font color="white" size="5">樂團介紹</font></b><p>
 <font color="white">2013年由知名樂團infernal chaos主唱CIG發起的獨立樂團，Constant & Change引申自英文哲思「唯一不變的就是永遠在變化」(Constantly Changing)，如同佛家的無常(Impermanence)，命運總是變化無法預測，與其哀傷不如隨遇而安，淡定而為。</font>
 <br>
 
