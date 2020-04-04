@@ -15,6 +15,7 @@ SION – Bass<br>
 <img src="https://i.imgur.com/cmP2cCV.jpg">
 <p>
 
+<font color="#29293d>
 <font size="5">樂團介紹</font>
 <br>
 
@@ -23,6 +24,7 @@ Post Rock為「恆定」基底，試著加入各種「改變」元素，多一�
 世間萬物每一刻都在變動，沒有一樣是靜止的；
 我們不可能保持固定，只能維持動態的平衡。
 平衡所散發出的能量，將推往無限。
+</font>
 <p>
 
 歌曲推薦-
