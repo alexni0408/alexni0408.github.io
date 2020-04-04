@@ -1,6 +1,7 @@
 <body background="https://i.imgur.com/Dp2ZvXr.jpg">
+<font color="white">
   
-## 康士坦的變化球
+<font size="4">康士坦的變化球</font>
 <br>
 
 CIG – Guitar<br>
@@ -11,6 +12,7 @@ SION – Bass<br>
 <br>
 
 <img src="https://i.imgur.com/cmP2cCV.jpg">
+<br>
 <br>
 
 ### 樂團介紹
@@ -49,3 +51,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</font>
