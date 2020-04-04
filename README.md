@@ -1,7 +1,6 @@
 <body background="https://i.imgur.com/Dp2ZvXr.jpg">
 
-<font color="white" size="5">康士坦的變化球</font>
-<p>
+<font color="white" size="5">康士坦的變化球</font><p>
 
 <font color="white">CIG – Guitar</font><br>
 <font color="white">ARNY – Guitar</font><br>
