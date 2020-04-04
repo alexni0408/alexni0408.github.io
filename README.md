@@ -1,7 +1,7 @@
 <body background="https://i.imgur.com/Dp2ZvXr.jpg">
 <font color="white">
   
-<font size="4">康士坦的變化球</font>
+<font size="5">康士坦的變化球</font>
 <br>
 
 CIG – Guitar<br>
@@ -10,11 +10,12 @@ SION – Bass<br>
 小米 - Drum<br>
 啟泰 - VJ<br>
 <br>
+</font>
 
 <img src="https://i.imgur.com/cmP2cCV.jpg">
 <br>
 
-<font size="4">樂團介紹</font>
+<font size="5">樂團介紹</font>
 <br>
 
 Post Rock為「恆定」基底，試著加入各種「改變」元素，多一點強烈節奏，多一點吉他聲線，多一點複雜的鼓點編寫，將各種嘗試放到音樂裡試驗催化，組合出超越後搖的基本想像，就像是灰色的天空飄散著淡淡的彩色香氣，看似平衡卻似墜落，既迷幻又真實，內斂卻開放。
@@ -50,4 +51,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-</font>
+
