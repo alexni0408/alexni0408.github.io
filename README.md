@@ -1,6 +1,6 @@
 <body background="https://i.imgur.com/Dp2ZvXr.jpg">
 
-<font color=white><font size="5">康士坦的變化球</font></font>
+<font color=white size="5">康士坦的變化球</font>
 <p>
 
 CIG – Guitar<br>
@@ -13,7 +13,7 @@ SION – Bass<br>
 <img src="https://i.imgur.com/cmP2cCV.jpg">
 <p>
 
-<font color:#29293d><font size="5">樂團介紹</font></font>
+<font color:#29293d size="5">樂團介紹</font>
 <br>
 Post Rock為「恆定」基底，試著加入各種「改變」元素，多一點強烈節奏，多一點吉他聲線，多一點複雜的鼓點編寫，將各種嘗試放到音樂裡試驗催化，組合出超越後搖的基本想像，就像是灰色的天空飄散著淡淡的彩色香氣，看似平衡卻似墜落，既迷幻又真實，內斂卻開放。<br>
 唯一不變的就是變；<br>
