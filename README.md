@@ -13,16 +13,15 @@
 <font color="white">2013年由知名樂團Infernal Chaos主唱CIG發起的獨立樂團，Constant & Change引申自英文哲思「唯一不變的就是永遠在變化」(Constantly Changing)，如同佛家的無常，命運總是變化無法預測，與其哀傷不如隨遇而安，淡定而為。</font>
 <p>
 
-<div class="photo">
-<img src="https://i.imgur.com/cmP2cCV.jpg">
+
 <img src="https://i.imgur.com/wr2kvaJ.jpg">
-<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
-</div>
-<script>
-$(function(){
-$(".photo img").fadeIn("slow");
-</script>
+<img id="photo" src="https://i.imgur.com/cmP2cCV.jpg" alt="">
+ 
+$("#photo").fadeIn("slow", function(){
+});
+
 <p>
+
 
 <b><font color="696969" size="5">關於樂團風格</font></b>
 <br>
