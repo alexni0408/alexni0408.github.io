@@ -14,7 +14,7 @@
 <p>
    
 <button id="fade-in">Lights On</button> 
-<button id="fade-out">Lights Off</button><br>
+<button id="fade-out">Lights Off</button><p>
 <img src="https://i.imgur.com/cmP2cCV.jpg">
 <img src="https://i.imgur.com/wr2kvaJ.jpg">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
