@@ -15,10 +15,10 @@
 
 <img id="photo1" src="https://i.imgur.com/cmP2cCV.jpg" alt="">
 <img id="photo2" src="https://i.imgur.com/wr2kvaJ.jpg" alt=""> 
-$("#photo1").fadeIn("slow", function(){
-});
-$("#photo2").fadeIn("slow", function(){
-});
+<script>
+$("#photo1").fadeIn("slow");
+$("#photo2").fadeIn("slow");
+</script>
 <p>
 
 <b><font color="696969" size="5">關於樂團風格</font></b>
