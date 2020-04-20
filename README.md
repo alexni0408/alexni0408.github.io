@@ -16,12 +16,8 @@
 <div class="photo">
 <img src="https://i.imgur.com/cmP2cCV.jpg">
 <img src="https://i.imgur.com/wr2kvaJ.jpg">
-<script type="text/javascript" src="i.imgur.com/js/imageshow.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
 </div>
-<style>
-.photo img {
-} 
-</style>
 <script>
 $(function(){
 $(".photo img").fadeIn("slow");
