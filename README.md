@@ -1,3 +1,7 @@
+$("img").click(function(){
+    $("p").fadeIn();
+});
+
 <body background="https://i.imgur.com/Dp2ZvXr.jpg">
 
 <b><font color="white" size="5">康士坦的變化球 Constant & Change</font></b><p>
