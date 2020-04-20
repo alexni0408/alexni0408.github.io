@@ -9,7 +9,7 @@
 <font color="white">啟泰 - VJ</font><br>
 <br>
 
-<b><font color="white" size="5">樂團介紹</font></b> <button id="fade-in">Fade In</button> <br>
+<b><font color="white" size="5">樂團介紹</font></b> <button id="fade-in">Fade In</button> <button id="fade-out">Fade Out</button> <br>
 <font color="white">2013年由知名樂團Infernal Chaos主唱CIG發起的獨立樂團，Constant & Change引申自英文哲思「唯一不變的就是永遠在變化」(Constantly Changing)，如同佛家的無常，命運總是變化無法預測，與其哀傷不如隨遇而安，淡定而為。</font>
 <p>
 
@@ -19,6 +19,9 @@
 <script>
    $('#fade-in').click(function(){
             $('img').fadeIn('slow');
+        });
+   $('#fade-out').click(function(){
+            $('img').fadeOut(400);
         });
 </script>
 <p>
