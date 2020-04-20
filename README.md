@@ -22,8 +22,10 @@
 .photo img {
 } 
 </style>
+<script>
 $(function(){
 $(".photo img").fadeIn("slow");
+</script>
 <p>
 
 <b><font color="696969" size="5">關於樂團風格</font></b>
